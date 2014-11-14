@@ -1,4 +1,2 @@
 FlipGA uses standard genetic operators to make broad changes in an assignment and the flipping
 process to locally optimize assignments. This program implements FlipGA in Java.As input for your algorithm the program uses satisfiable SAT instances with density 4.26 available from: http://people.cs.ubc.ca/~hoos/SATLIB/benchm.html.
-
-The program also plots the median running time and the average bit flips as a function of n.
